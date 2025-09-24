@@ -59,3 +59,7 @@ Com ele é possível monitorar indicadores como **média salarial, estado civil,
 ##  Imagem do Dashboard
 
 ![Dashboard](./Imagens/dashboard_funcionarios.png)
+---
+
+> Projeto criado por Gabriel F. Rodrigues de Souza – Estudante de Análise e Desenvolvimento de Sistemas com foco em Análise de Dados.
+
