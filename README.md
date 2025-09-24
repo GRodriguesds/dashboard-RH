@@ -58,4 +58,4 @@ Com ele é possível monitorar indicadores como **média salarial, estado civil,
 ---
 ##  Imagem do Dashboard
 
-![Dashboard](./imagens/dashboard_funcionarios.png)
+![Dashboard](./Imagens/dashboard_funcionarios.png)
